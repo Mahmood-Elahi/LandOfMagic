@@ -6,9 +6,9 @@ A Java adventure game where you choose a hero and fight through enemies and boss
 
 ## Features
 - 4 playable heroes
-- Multiple paths and encounters
-- Boss fights (Ornstein, Smough, Smaugh)
-- Text-based combat system
+- Dynamic paths and encounters
+- Bosses and inventory system
+- Multiple endings based on user decisions
 
 ## Run
 ```bash
