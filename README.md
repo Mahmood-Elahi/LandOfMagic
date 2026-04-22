@@ -1,6 +1,6 @@
 # LandOfMagic
 
-(High School Project CS 30-1 AP)
+(High School Project CS 30 AP)
 
 A Java adventure game where you choose a hero and fight through enemies and bosses.
 
