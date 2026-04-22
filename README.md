@@ -1,6 +1,6 @@
 # Hero Selector
 
-(High School Project)
+(High School Project CS 30-1 AP)
 
 A simple Java console adventure game where you choose a hero and fight through enemies and bosses.
 
