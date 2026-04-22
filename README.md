@@ -2,7 +2,7 @@
 
 (High School Project CS 30-1 AP)
 
-A simple Java console adventure game where you choose a hero and fight through enemies and bosses.
+A Java adventure game where you choose a hero and fight through enemies and bosses.
 
 ## Features
 - 4 playable heroes
