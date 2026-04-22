@@ -1,4 +1,4 @@
-# Hero Selector
+# LandOfMagic
 
 (High School Project CS 30-1 AP)
 
